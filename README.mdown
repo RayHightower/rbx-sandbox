@@ -1,0 +1,5 @@
+Rubinius Sandbox
+===
+
+Inspired by the 3/4/2014 [ChicagoRuby](http://www.chicagoruby.org/videos/archives/2014/03/04/augmented-ruby-the-rubinius-language-platform/) meetup and the subsequent Rubinius-themed hack night on 3/12/2014.
+
